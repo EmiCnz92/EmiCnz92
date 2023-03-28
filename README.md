@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **emi.conza99@gmail.com**
 
-- ⚡ Peculiar fact: I am a great supporter of **SSC Napoli** football club. 2023: history in the making!
+- ⚡ Peculiar fact: I am a big supporter of **SSC Napoli** football club. 2023: history in the making!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,5 +35,6 @@
 ---
 
 ### Projects and Articles ☁️
+<li>[2023-03-28] <a href="https://medium.com/@emicnz92/from-an-email-attachment-to-an-airline-business-insights-using-aws-part-2-7325dc0037d3" rel="nofollow"> From an email attachment to an Airline business insights: an end-to-end data pipeline using AWS (PART 2)</a></li>
 
-* [YYYY-MM-DD - From an email attachment to an Airline business insights: an end-to-end data pipeline using AWS (step by step Tutorial)](add here Medium link)
+<li>[2023-03-27] <a href="https://medium.com/@emicnz92/from-an-email-attachment-to-an-airline-business-insights-using-aws-part-1-a3046934dcb8" rel="nofollow"> From an email attachment to an Airline business insights: an end-to-end data pipeline using AWS (PART 1)</a></li>
